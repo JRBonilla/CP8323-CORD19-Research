@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 let model;
 let contextEmbeddings;
 
-const API_URL = "https://ug9qfww8oj2szfip.eastus.azure.endpoints.huggingface.cloud";
+const API_URL = "https://j66n8yuqwritp7lb.eastus.azure.endpoints.huggingface.cloud";
 const headers = {
   "Accept": "application/json",
   "Authorization": "Bearer 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",
